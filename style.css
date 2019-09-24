@@ -3,7 +3,7 @@ header {
     background-color: #521751 ;
     padding: 10px;
     border: 5px dashed red;
-    
+    margin: 10px;
 }
 
 h1 { font-size: 20px; 
