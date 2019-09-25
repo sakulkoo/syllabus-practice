@@ -6,11 +6,12 @@ header {
     margin: 10px;
 }
 
-h1 { font-size: 20px; 
+h1 { 
+
+    background-color: #521751; 
 color:white ;
-padding: 10px 20px 30px 40px;
-border: 5px dashed red;
-margin: 10px;
+padding: 10px;
+
 }
 
 a { text-decoration: none;
