@@ -1,9 +1,11 @@
-html {
-    background-color: grey;
+header {
+    background-color: lightgray;
 
 }
 
 .page-title { 
+    position: fixed;
+    top: 0;
     background-color: #521751; 
     color:white;
     padding: 10px;
